@@ -1,6 +1,25 @@
 === Overview
 I've been doing Rails in production since it was beta.  I'm great at backend Rails development.  Good at using others design templates to push the UI forward.  Not great at actual UI design though (although I know the design rules, etc.).  Pretty good at setting up Rails boxes... probably intermediate level 'nix guy.  Good at Javascript (prototype and jquery).  Easy to work with... (not married to any one philosophy)
 
+Core competencies:
+* Ruby
+* Rails (1 large project on Rails 3 so far)
+* PostGres
+* MySQL
+* Redis (NoSQL Key/Value)
+* Moonshine (deployment, server management)
+* Git (for everything I've done in the past few years), SVN
+* CSS
+* Javascript, AJAX, prototype, jquery
+* UI frameworks (such as Blueprint)
+* Working with and writing API's via REST/SOAP 
+* Plugin development
+* Engine development
+* Genetic Algorithm based AI
+* Contributing to Open Source
+* test/unit, rspec, mocha and cucumber for testing
+* basic stack setup and management on Ubuntu
+
 Git: https://github.com/wiseleyb - unfortunately the majority of my serious work isn't open source.
 
 === Largish rails gigs:
