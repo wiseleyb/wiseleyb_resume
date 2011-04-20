@@ -3,12 +3,14 @@ I've been doing Rails in production since it was beta.  I'm great at backend Rai
 
 Core competencies:
 * Ruby
-* Rails (1 large project on Rails 3 so far)
-* PostGres
+* Rails 
+* Rails Engines
+* PostreSQL
 * MySQL
 * Redis (NoSQL Key/Value)
 * Moonshine (deployment, server management)
 * Git (for everything I've done in the past few years), SVN
+* Sphinx (and Ferret before that)
 * CSS
 * Javascript, AJAX, prototype, jquery
 * UI frameworks (such as Blueprint)
@@ -19,21 +21,31 @@ Core competencies:
 * Contributing to Open Source
 * test/unit, rspec, mocha and cucumber for testing
 * basic stack setup and management on Ubuntu
+* performance tuning (httperf, analyzing cuke runs, Rails log analysis)
 
 Git: https://github.com/wiseleyb - unfortunately the majority of my serious work isn't open source.
 
 === Largish rails gigs:
-* current:  http://deucescracked.com  Large (about 100K members) subscription based site centered around teaching people to play poker.  Recently migrated to Rails 3 (deploying this on Monday).  Well unit tested (Cuke/Rspec/Capybara/Mocha).  Subscription system run on Auth.net CIM.  We use MySQL (not my choice) and run about half the site on Redis now.  Makes use of many open source projects - many of which we've modified/forked.  Hosted by RailsMachine.  Video streamed via Cloudfront on Amazon through a custom player (written in Flash - but I don't work on that code).  I do most of the back end code and work with a designer and a flash guy who does the player.  For project management we use Campfire and Pivitol
-* http://holidaygolightly.com - a more or less dead project that she keeps up for some reason.  Is never used anymore (Kerry Rupp, friend who started the project is now a partner at http://www.dreamitventures.com/team/).  I did the back end code including the server setup (slicehost)
-* http://activerain.com - we put this site in production while Rails was still beta.  Large social network (I think they're past 1M members now) for the RealEstate users.  Very rapid growth created interesting scalability issues.  I did 90% of the site that took them to 500K users then moved on.  No testing (not my choice, it was a direct order).
+* current (2+ years):  http://deucescracked.com  Large (about 100K members) subscription based site centered around teaching people to play poker.  Recently migrated to Rails 3 (deploying this on Monday).  Well unit tested (Cuke/Rspec/Capybara/Mocha).  Subscription system run on Auth.net CIM.  We use MySQL (not my choice) and run about half the site on Redis now.  Makes use of many open source projects - many of which we've modified/forked.  Hosted by RailsMachine.  Video streamed via Cloudfront on Amazon through a custom player (written in Flash - but I don't work on that code).  I do most of the back end code and work with a designer and a flash guy who does the player.  For project management we use Campfire and Pivitol. Tech: Rails 3, MySQL, Redis, Sphinx, Memcache, Moonshine, Engines and tons of customized plugins.
+* http://holidaygolightly.com (1 year) - a more or less dead project that she keeps up with plans to one day get the project going again.  Not really used anymore.  Kerry Rupp, friend who started the project is now a partner at http://www.dreamitventures.com/team/ .  I did the back end Rails code including the server setup (slicehost). Tech: Rails 2, PostgreSQL, Memcache, Mongrel
+* http://activerain.com - we put this site in production while Rails was still beta.  Large social network (I think they're past 1M members now) for the RealEstate users.  Very rapid growth created interesting scalability issues.  I did 90% of the site that took them to 500K users then moved on.  No testing (not my choice, it was a direct order).  Tech: Rails, PostgreSQL, Memcache
 Side projects:
-* https://github.com/wiseleyb/txt141 - a simple Redis backed text shortening service using Twitter OAuth.  I was hoping to integrate this with TweetDeck but they came out with a similar service just as I finished this.
+* https://github.com/wiseleyb/txt141 - a simple Redis backed text shortening service using Twitter OAuth.  I was hoping to integrate this with TweetDeck but they came out with a similar service just as I finished this.  Tech: Rails 3, OAuth, Redis (No database used in this project - straight Redis)
 * https://github.com/wiseleyb/vexflow - html5/svg based music notation and guitar tablature software.  I've been adding more support for piano/cello (don't play guitar) and helping the maintainer iron out some bugs and bring it up to production level.  Testing done with qunit.js  
 
 === Non-Rails work:
 
-* Ascentium: (Bellevue) a large MS based consulting firm.  I worked on a team (pair programming, 100% test coverage) that created testing software for Kenmore Trucks (oh, the glory!).  
-* LexisNexis File & Serve:  (Bellevue) Was a core developer on their File & Serve project http://www.lexisnexis.com/community/fileandserve/default.aspx - which supports millions of daily filings in court systems all over the US.  
-* Verbind: (Boston) wrote routines to mine data to look for signs of pending events.  For example - we took BOA's data and figured out how to predict, with very high accuracy, when someone was about to close an account.  
-* TCA: (Cambridge) MIT think tank that did statistical analysis for electricity deregulation in Russia, England and California.  Was responsible for implementing, and running massive stat routines on very, very large datasets (which was pretty challenging given that the 486 was state of the art) 
+* Ascentium: (Bellevue) a large MS based consulting firm.  I worked on a team (pair programming, 100% test coverage) that created testing software for Kenmore Trucks (oh, the glory!).  Tech .NET, SQLServer
+* LexisNexis File & Serve (5 years):  (Bellevue) Was a core developer on their File & Serve project http://www.lexisnexis.com/community/fileandserve/default.aspx - which supports millions of daily filings in court systems all over the US.  Tech: .NET, SQLServer
+* Verbind: (Boston) wrote routines to mine data to look for signs of pending events.  For example - we took BOA's data and figured out how to predict, with very high accuracy, when someone was about to close an account.  Tech: VB (for UI), SQLServer, C++ (for analysis)
+* TCA (5 years): (Cambridge) MIT think tank that did statistical analysis for electricity deregulation in Russia, England and California.  Was responsible for implementing, and running massive stat routines on very, very large datasets (which was pretty challenging given that the 486 was state of the art).  Tech: VB (for UI), C (for modeling)
+
+=== Other work (been at this 20 years)
+* Several web-shops in Boston during .com era.  
+* 2 year stint at Polaroid redoing their entire HR system (porting Mainframe to MS based tech).  
+* Tons of small, contract websites.
+
+=== Education
+* Harvard Night School.  Mostly took programming classes (MFC C++, C++) as well as some math, stats, philosophy.
+* Audited classes at BU (more programming classes), BC (physics), NorthEastern (EMT certication)
 
