@@ -27,7 +27,9 @@ Core competencies:
 Git: https://github.com/wiseleyb - unfortunately the majority of my serious work isn't open source.
 
 === Largish rails gigs:
-* current (2+ years):  http://deucescracked.com  Large (about 100K members) subscription based site centered around teaching people to play poker.  Recently migrated to Rails 3 (deploying this on Monday).  Well unit tested (Cuke/Rspec/Capybara/Mocha).  Subscription system run on Auth.net CIM.  We use MySQL (not my choice) and run about half the site on Redis now.  Makes use of many open source projects - many of which we've modified/forked.  Hosted by RailsMachine.  Video streamed via Cloudfront on Amazon through a custom player (written in Flash - but I don't work on that code).  I do most of the back end code and work with a designer and a flash guy who does the player.  For project management we use Campfire and Pivitol. Tech: Rails 3, MySQL, Redis, Sphinx, Memcache, Moonshine, Engines and tons of customized plugins.
+* http://wordsquared.com (current) MMO Scrabble game.  Millions of members, gobs of coffee script, complete rails 3 api on the back end, mongo for data storage.  Facebook app and web app (mobile in the works).  Easily the most complicated site I've worked on.
+* http://catalogchoice.org (current) Millions of members opting out of catalogs and junk mail.  Pretty straightforward rails site with mysql on the back end.  Credit card processing with Paypal and Braintree.  
+* http://deucescracked.com (2.5 years) Large (about 100K members) subscription based site centered around teaching people to play poker.  Recently migrated to Rails 3 (deploying this on Monday).  Well unit tested (Cuke/Rspec/Capybara/Mocha).  Subscription system run on Auth.net CIM.  We use MySQL (not my choice) and run about half the site on Redis now.  Makes use of many open source projects - many of which we've modified/forked.  Hosted by RailsMachine.  Video streamed via Cloudfront on Amazon through a custom player (written in Flash - but I don't work on that code).  I do most of the back end code and work with a designer and a flash guy who does the player.  For project management we use Campfire and Pivitol. Tech: Rails 3, MySQL, Redis, Sphinx, Memcache, Moonshine, Engines and tons of customized plugins.
 * http://holidaygolightly.com (1 year) - a more or less dead project that she keeps up with plans to one day get the project going again.  Not really used anymore.  Kerry Rupp, friend who started the project is now a partner at http://www.dreamitventures.com/team/ .  I did the back end Rails code including the server setup (slicehost). Tech: Rails 2, PostgreSQL, Memcache, Mongrel
 * http://activerain.com (2 years)- we put this site in production while Rails was still beta.  Large social network (I think they're past 1M members now) for the RealEstate users.  Very rapid growth created interesting scalability issues.  I did 90% of the site that took them to 500K users then moved on.  No testing (not my choice, it was a direct order).  Tech: Rails, PostgreSQL, Memcache
 === Side projects:
@@ -49,4 +51,7 @@ Git: https://github.com/wiseleyb - unfortunately the majority of my serious work
 === Education
 * Harvard Night School.  Mostly took programming classes (MFC C++, C++) as well as some math, stats, philosophy.
 * Audited classes at BU (more programming classes), BC (physics), NorthEastern (EMT certication)
+
+=== About me
+I live on a sailboat and enjoy kayaking and paragliding.  I spent my junior-high/high-school years in Japan.  I've been around the world several times.  I take self education very seriously, I just don't see the point in paying thousands for it.  I play piano and cello and love classical music.
 
