@@ -11,15 +11,15 @@ Core competencies:
 * Moonshine (deployment, server management)
 * Git (for everything I've done in the past few years), SVN
 * Sphinx (and Ferret before that)
-* CSS
-* Javascript, AJAX, prototype, jquery
+* CSS, SASS
+* Javascript, AJAX, prototype, jquery, CoffeeScript
 * UI frameworks (such as Blueprint)
 * Working with and writing API's via REST/SOAP 
 * Plugin development
 * Engine development
 * Genetic Algorithm based AI
 * Contributing to Open Source
-* test/unit, rspec, mocha and cucumber for testing
+* test/unit, rspec, mocha, jasmine, capybara and cucumber for testing
 * basic stack setup and management on Ubuntu
 * performance tuning (httperf, analyzing cuke runs, Rails log analysis)
 * AWS (S3, EC2, CloudFront, etc.)
