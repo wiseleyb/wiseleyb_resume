@@ -5,7 +5,7 @@ Core competencies:
 * Ruby
 * Rails 
 * Rails Engines
-* PostreSQL
+* PostgreSQL
 * MySQL
 * Redis (NoSQL Key/Value)
 * Moonshine (deployment, server management)
