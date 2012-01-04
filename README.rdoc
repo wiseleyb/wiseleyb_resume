@@ -1,6 +1,8 @@
 === Overview
 I've been doing Rails in production since it was beta.  I'm great at backend Rails development.  Good at using others design templates to push the UI forward.  Not great at actual UI design though (although I know the design rules, etc.).  Pretty good at setting up Rails boxes... probably intermediate level 'nix guy.  Good at Javascript (prototype and jquery).  Easy to work with... (not married to any one philosophy)
 
+Currently located in Sydney, Australia.
+
 Core competencies:
 * Ruby
 * Rails 
@@ -56,5 +58,7 @@ Git: https://github.com/wiseleyb - unfortunately the majority of my serious work
 * Audited classes at BU (more programming classes), BC (physics), NorthEastern (EMT certication)
 
 === About me
-I live on a sailboat and enjoy kayaking and paragliding.  I spent my junior-high/high-school years in Japan.  I've been around the world several times.  I take self education very seriously, I just don't see the point in paying thousands for it.  I play piano and cello and love classical music.  I don't own pants.
+I live on the beach in Coogee, NSW, Australia and mostly work from home.  Have been trying my luck at surfing, ocean swimming and free diving.  When not out in the sun or programming I'm practicing cello.  I've traveled the world, grew up in Japan, have lived all over the US and recently moved to Australia.
+
+I have recently been forced to by my first pair of long pants in a decade... something I'm still in counceling for.
 
