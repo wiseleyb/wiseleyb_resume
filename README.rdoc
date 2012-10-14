@@ -15,7 +15,9 @@ Core competencies:
 * Sphinx (and Ferret before that)
 * CSS, SASS
 * Javascript, AJAX, prototype, jquery, CoffeeScript
-* UI frameworks (such as Blueprint)
+* Backbone (-1 though)
+* RhoMobile and jQuery-mobile
+* UI frameworks (such as Blueprint, Bootstrap)
 * Working with and writing API's via REST/SOAP 
 * Plugin development
 * Engine development
