@@ -1,7 +1,7 @@
 === Overview
 I've been doing Rails in production since it was beta.  I'm great at backend Rails development.  Good at using others design templates to push the UI forward.  Not great at actual UI design though (although I know the design rules, etc.).  Pretty good at setting up Rails boxes... probably intermediate level 'nix guy.  Good at Javascript (prototype and jquery).  Easy to work with... (not married to any one philosophy)
 
-Currently located in Sydney, Australia.
+Currently located in San Francisco, CA, USA - looking for work that will allow me to live anywhere.
 
 Core competencies:
 * Ruby
@@ -31,18 +31,20 @@ Core competencies:
 Git: https://github.com/wiseleyb - unfortunately the majority of my serious work isn't open source.
 
 === Current:
-* http://reInteractive.net - consulting dev shop working on numerous large scale, high budget projects in Rails. Doing a little bit of everything at this job, all Rails related.
+* http://causes.com - engineer doing full stack Ruby on Rails with very large MySQL databases. High traffic site, 15+ engineering team. What Causes is: Causes is the place to discover, support and organize campaigns, fundraisers, and petitions around the issues that impact you and your community
 
 === Largish rails gigs:
+* http://reInteractive.net - (1 year, Sydney, Australia) consulting dev shop working on numerous large scale, high budget projects in Rails. Doing a little bit of everything at this job, all Rails related.
 * http://wordsquared.com MMO Scrabble game.  Millions of members, gobs of coffee script, complete rails 3 api on the back end, mongo for data storage.  Facebook app and web app (mobile in the works).  Easily the most complicated site I've worked on.
 * http://catalogchoice.org Millions of members opting out of catalogs and junk mail.  Pretty straightforward rails site with mysql on the back end.  Credit card processing with Paypal and Braintree.  
 * http://deucescracked.com (2.5 years) Large (about 100K members) subscription based site centered around teaching people to play poker.  Recently migrated to Rails 3 (deploying this on Monday).  Well unit tested (Cuke/Rspec/Capybara/Mocha).  Subscription system run on Auth.net CIM.  We use MySQL (not my choice) and run about half the site on Redis now.  Makes use of many open source projects - many of which we've modified/forked.  Hosted by RailsMachine.  Video streamed via Cloudfront on Amazon through a custom player (written in Flash - but I don't work on that code).  I do most of the back end code and work with a designer and a flash guy who does the player.  For project management we use Campfire and Pivitol. Tech: Rails 3, MySQL, Redis, Sphinx, Memcache, Moonshine, Engines and tons of customized plugins.
 * http://holidaygolightly.com (1 year) - a more or less dead project that she keeps up with plans to one day get the project going again.  Not really used anymore.  Kerry Rupp, friend who started the project is now a partner at http://www.dreamitventures.com/team/ .  I did the back end Rails code including the server setup (slicehost). Tech: Rails 2, PostgreSQL, Memcache, Mongrel
 * http://activerain.com (2 years)- we put this site in production while Rails was still beta.  Large social network (I think they're past 1M members now) for the RealEstate users.  Very rapid growth created interesting scalability issues.  I did 90% of the site that took them to 500K users then moved on.  No testing (not my choice, it was a direct order).  Tech: Rails, PostgreSQL, Memcache
+
 === Side projects:
+I haven't had much time for side projects over the last year.
+
 * https://github.com/wiseleyb/whereisryanbigg - solving todays hard problems... Where is Ryan Bigg... tracking him through the twitterverse http://whereisryanbigg.herokuapp.com/
-* https://github.com/wiseleyb/txt141 - a simple Redis backed text shortening service using Twitter OAuth.  I was hoping to integrate this with TweetDeck but they came out with a similar service just as I finished this.  Tech: Rails 3, OAuth, Redis (No database used in this project - straight Redis)
-* https://github.com/wiseleyb/vexflow - html5/svg based music notation and guitar tablature software.  I've been adding more support for piano/cello (don't play guitar) and helping the maintainer iron out some bugs and bring it up to production level.  Testing done with qunit.js  
 
 === Non-Rails work:
 
@@ -61,8 +63,8 @@ Git: https://github.com/wiseleyb - unfortunately the majority of my serious work
 * Audited classes at BU (more programming classes), BC (physics), NorthEastern (EMT certication)
 
 === About me
-I live on the beach in Coogee, NSW, Australia and mostly work from home.  Have been trying my luck at surfing, ocean swimming and free diving.  When not out in the sun or programming I'm practicing cello.  I've traveled the world, grew up in Japan, have lived all over the US and recently moved to Australia.
+I live in a small garage in San Francisco and am looking for a remote work position that will allow me to travel while working.
 
-I have recently been forced to by my first pair of long pants in a decade... something I'm still in counceling for.
+I have recently been forced to buy my first pair of long pants in a decade... something I'm still in counceling for.
 
 Myers-Briggs Type: INTP 
