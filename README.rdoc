@@ -1,7 +1,9 @@
 === Overview
-I've been doing Rails in production since it was beta.  I'm great at backend Rails development.  Good at using others design templates to push the UI forward.  Not great at actual UI design though (although I know the design rules, etc.).  Pretty good at setting up Rails boxes... probably intermediate level 'nix guy.  Good at Javascript (prototype and jquery).  Easy to work with... (not married to any one philosophy)
+I've been doing Rails in production since it was beta.  I'm great at backend Rails development.  Good at using others design templates to push the UI forward.  Not great at actual UI design though (although I know the design rules, etc.).  Pretty good at setting up Rails boxes... probably intermediate level 'nix guy.  Good at Javascript (prototype, jquery, some react).  Easy to work with... (not married to any one philosophy)
 
-Currently located in San Francisco, CA, USA - looking for work that will allow me to live anywhere.
+Currently located in San Francisco, CA, USA - looking for remote work (open to occasional onsite). 
+
+If I have a niche it's taking your idea from nothing to something very rapidly with high reliability. I have tons of consulting experience and have done many start-ups, everything from solo development to well-funded-teams.
 
 Core competencies:
 * Ruby
@@ -13,9 +15,9 @@ Core competencies:
 * Moonshine (deployment, server management)
 * Git (for everything I've done in the past few years), SVN
 * Sphinx (and Ferret before that)
-* CSS, SASS
-* Javascript, AJAX, prototype, jquery, CoffeeScript
-* Backbone (-1 though)
+* CSS, SASS, SCSS
+* Javascript, AJAX, prototype, jquery, CoffeeScript, React
+* Backbone (-1 though - not a fan)
 * RhoMobile and jQuery-mobile
 * UI frameworks (such as Blueprint, Bootstrap)
 * Working with and writing API's via REST/SOAP 
@@ -31,9 +33,11 @@ Core competencies:
 Git: https://github.com/wiseleyb - unfortunately the majority of my serious work isn't open source.
 
 === Current:
-* http://causes.com - engineer doing full stack Ruby on Rails with very large MySQL databases. High traffic site, 15+ engineering team. What Causes is: Causes is the place to discover, support and organize campaigns, fundraisers, and petitions around the issues that impact you and your community
+* Looking for a remote work situation. Preferably long term, but open to anything.
 
 === Largish rails gigs:
+* https://brigade.com - Brigade bought Causes (total time at both companies was around 3 years, both Sean Parker companies). Brigade was a new app that included Rails API, Rails Web, iOS and Android apps, service oriented architecture and data processing with Scala/Hadoop. The engineering team on this project was around 30 engineers. I was primary responsible for the Rails API and some of the Web (mostly React). I also was part of the team that wrote a large email architecture designed for sending 100M+ emails/month as well as doing data pulls from Causes 100M+ users for the email sends.
+* https://causes.com - engineer doing full stack Ruby on Rails with very large MySQL databases. High traffic site, 15+ engineering team. What Causes is: Causes is the place to discover, support and organize campaigns, fundraisers, and petitions around the issues that impact you and your community
 * http://reInteractive.net - (1 year, Sydney, Australia) consulting dev shop working on numerous large scale, high budget projects in Rails. Doing a little bit of everything at this job, all Rails related.
 * http://wordsquared.com MMO Scrabble game.  Millions of members, gobs of coffee script, complete rails 3 api on the back end, mongo for data storage.  Facebook app and web app (mobile in the works).  Easily the most complicated site I've worked on.
 * http://catalogchoice.org Millions of members opting out of catalogs and junk mail.  Pretty straightforward rails site with mysql on the back end.  Credit card processing with Paypal and Braintree.  
@@ -66,5 +70,7 @@ I haven't had much time for side projects over the last year.
 I live in a small garage in San Francisco and am looking for a remote work position that will allow me to travel while working.
 
 I have recently been forced to buy my first pair of long pants in a decade... something I'm still in counceling for.
+
+On my off time I go on very long motorcycle trips and spend a good amount of time sailing on my trimaran.
 
 Myers-Briggs Type: INTP 
