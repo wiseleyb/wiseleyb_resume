@@ -1,5 +1,5 @@
 === Overview
-I've been doing Rails in production since it was beta.  I'm great at backend Rails development.  Good at using others design templates to push the UI forward.  Not great at actual UI design though (although I know the design rules, etc.).  Pretty good at setting up Rails boxes... probably intermediate level 'nix guy.  Good at Javascript (prototype, jquery, some react).  Easy to work with... (not married to any one philosophy)
+I've been doing Rails in production since it was beta.  I'm great at backend Rails development.  Good at using others design templates to push the UI forward.  Not great at actual UI design though (although I know the design rules, etc.).  Pretty good at setting up Rails boxes... probably intermediate level 'nix guy.  Good at Javascript (prototype, jQuery, some react).  Easy to work with... (not married to any one philosophy)
 
 Currently located in San Francisco, CA, USA - looking for remote work (open to occasional onsite). 
 
@@ -16,24 +16,28 @@ Core competencies:
 * Git (for everything I've done in the past few years), SVN
 * Sphinx (and Ferret before that)
 * CSS, SASS, SCSS
-* Javascript, AJAX, prototype, jquery, CoffeeScript, React
+* Javascript, AJAX, prototype, jQuery, CoffeeScript, React
 * Backbone (-1 though - not a fan)
-* RhoMobile and jQuery-mobile
-* UI frameworks (such as Blueprint, Bootstrap)
+* Some React
+* UI frameworks (such as Blueprint, Bootstrap, Foundation)
 * Working with and writing API's via REST/SOAP 
 * Plugin development
-* Engine development
-* Genetic Algorithm based AI
 * Contributing to Open Source
 * test/unit, rspec, mocha, jasmine, capybara and cucumber for testing
 * basic stack setup and management on Ubuntu
+* Heroku
 * performance tuning (httperf, analyzing cuke runs, Rails log analysis)
 * AWS (S3, EC2, CloudFront, etc.)
+* Salesforce integration
 
 Git: https://github.com/wiseleyb - unfortunately the majority of my serious work isn't open source.
 
 === Current:
 * Looking for a remote work situation. Preferably long term, but open to anything.
+
+=== Consulting gigs:
+* http://www.soraa.com - Rewrite of old site in Rails, new design, custom CMS, Salesforce integration. Major challenge was scraping data from old site into a new DB since the previous site wasn't DB backed. Worked with a designer on this project.
+* https://zeemee.com - Miscellaneous backend work as their team needs. Postgres Full-text Search, miscellaneous other backend tasks.
 
 === Largish rails gigs:
 * https://brigade.com - Brigade bought Causes (total time at both companies was around 3 years, both Sean Parker companies). Brigade was a new app that included Rails API, Rails Web, iOS and Android apps, service oriented architecture and data processing with Scala/Hadoop. The engineering team on this project was around 30 engineers. I was primary responsible for the Rails API and some of the Web (mostly React). I also was part of the team that wrote a large email architecture designed for sending 100M+ emails/month as well as doing data pulls from Causes 100M+ users for the email sends.
